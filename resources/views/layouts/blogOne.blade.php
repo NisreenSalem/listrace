@@ -1,0 +1,5 @@
+@include('includes.header')
+@include('includes.topArea')
+@yield('content')
+@include('includes.footer')
+@include('includes.footerJS')
